@@ -312,7 +312,7 @@ min_safe_distance: 3.0  # 默认2.0
 
 ## 📞 联系方式
 
-- **邮箱**: your.email@university.edu
+- **邮箱**: guowei_ni@bit.edu.cn
 - **项目链接**: https://github.com/your-username/multi-drone-hrl
 - **论文**: [Multi-Agent Hierarchical Reinforcement Learning for Drone Swarm Exploration](link-to-paper)
 
